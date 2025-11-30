@@ -1,0 +1,2 @@
+# mpweixinA235D
+mpweixinA235D基于微信小程序的智能公交查询系统+LW
